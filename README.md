@@ -8,6 +8,7 @@ you effectively onboard the developer community (in this case, your instructors)
 to your application.
 
 1. What User Story (or feature) are you working on?
+  -  The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.
 1. What error are you getting?
 1. How have you attempted to fix your error?
 
