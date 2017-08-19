@@ -19,6 +19,6 @@ to your application.
   screenshots as necessary.
 - *Write your issue in Markdown!*
 
-![image](fill_in_text_fields.png)
+![image](https://github.com/keithtkto/WDI_DTLA_8/blob/master/projects/project_issues_protocol/images/fill_in_text_fields.png?raw=true)
 
 
